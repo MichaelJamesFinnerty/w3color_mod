@@ -1,5 +1,5 @@
-# w3color_mod
-###### Fork of w3color.js by W3 Schools for Mountain Oak Design (MOD) | fixes hex/ncol input detection bug and adds name property to ColorObject
+# w3color_mod.js
+###### Fork of w3color.js by W3 Schools for Mountain Oak Design (mod) <br /> fixes hex/ncol input detection bug and adds name property to ColorObject
 As part of Mountain Oak Design's HTML Named Colorwheel, we decided to use the w3color.js module developed by the fine folk at W3 Schools.
 * Unfortunately, we discovered an issue in how the module interpreted hex value inputs!
 * This fork addresses the hexl/ncol input parsing but, and also makes adds a name property to the ColorObject.
